@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center"> To do List </h1>
 
 <p align="center">
@@ -45,3 +46,6 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by Laísa Rafaella :wave: :blue_heart:
+=======
+# to-do-list
+>>>>>>> 0745da30a8c58c15c22e6054fff7c17b5e564501

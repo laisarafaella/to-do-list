@@ -44,7 +44,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Laísa Rafaella :wave: :blue_heart:
-=======
-# to-do-list
->>>>>>> 0745da30a8c58c15c22e6054fff7c17b5e564501
+Feito com ♥ by Laísa Rafaella :wave::blue_heart:
